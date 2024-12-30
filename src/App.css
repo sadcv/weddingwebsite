@@ -1,0 +1,30 @@
+h1 {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 68px;
+  font-weight: 600;
+}
+
+h2, h3, p {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  background-image: url('./images/beach copy.png');
+  background-size: cover; /* Adjusts the image to cover the entire background */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Ensures the image does not repeat */
+}
+
+.pls {
+  margin: 1rem;
+  padding: 2rem;
+  background-image: url('./images/beach.png');
+  background-size: cover; 
+  background-position: center;
+  /* background-repeat: no-repeat; */
+}
