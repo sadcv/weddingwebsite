@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/snowdacruzwedding.com/static/css/main.d938d19d.css",
-    "main.js": "/snowdacruzwedding.com/static/js/main.e93717ae.js",
-    "static/media/FirstKiss.png": "/snowdacruzwedding.com/static/media/FirstKiss.459ef5374210318a043c.png",
-    "static/media/OutsideNorthBeach.png": "/snowdacruzwedding.com/static/media/OutsideNorthBeach.0384a301006646b5ceae.png",
-    "static/media/SaveTheDate.png": "/snowdacruzwedding.com/static/media/SaveTheDate.03ce81e8cbbfb6f65f63.png",
-    "static/media/OutsideNorthBeach2.png": "/snowdacruzwedding.com/static/media/OutsideNorthBeach2.37086d63e419d70106e4.png",
-    "static/media/ParkDate.JPEG": "/snowdacruzwedding.com/static/media/ParkDate.479bdfeac56be9428042.JPEG",
-    "static/media/beach copy.png": "/snowdacruzwedding.com/static/media/beach copy.f1b01842a981a0c37f0f.png",
-    "static/media/beach.png": "/snowdacruzwedding.com/static/media/beach.45cbdadcb460afa8d4f5.png",
-    "index.html": "/snowdacruzwedding.com/index.html",
-    "main.d938d19d.css.map": "/snowdacruzwedding.com/static/css/main.d938d19d.css.map",
-    "main.e93717ae.js.map": "/snowdacruzwedding.com/static/js/main.e93717ae.js.map"
+    "main.css": "/weddingwebsite/static/css/main.4f858622.css",
+    "main.js": "/weddingwebsite/static/js/main.83165efc.js",
+    "static/media/FirstKiss.png": "/weddingwebsite/static/media/FirstKiss.459ef5374210318a043c.png",
+    "static/media/OutsideNorthBeach.png": "/weddingwebsite/static/media/OutsideNorthBeach.0384a301006646b5ceae.png",
+    "static/media/SaveTheDate.png": "/weddingwebsite/static/media/SaveTheDate.03ce81e8cbbfb6f65f63.png",
+    "static/media/OutsideNorthBeach2.png": "/weddingwebsite/static/media/OutsideNorthBeach2.37086d63e419d70106e4.png",
+    "static/media/ParkDate.JPEG": "/weddingwebsite/static/media/ParkDate.479bdfeac56be9428042.JPEG",
+    "static/media/beach copy.png": "/weddingwebsite/static/media/beach copy.f1b01842a981a0c37f0f.png",
+    "static/media/beach.png": "/weddingwebsite/static/media/beach.45cbdadcb460afa8d4f5.png",
+    "index.html": "/weddingwebsite/index.html",
+    "main.4f858622.css.map": "/weddingwebsite/static/css/main.4f858622.css.map",
+    "main.83165efc.js.map": "/weddingwebsite/static/js/main.83165efc.js.map"
   },
   "entrypoints": [
-    "static/css/main.d938d19d.css",
-    "static/js/main.e93717ae.js"
+    "static/css/main.4f858622.css",
+    "static/js/main.83165efc.js"
   ]
 }
