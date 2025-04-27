@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4898b99b.css",
-    "main.js": "/static/js/main.219dc17f.js",
+    "main.js": "/static/js/main.e77418b2.js",
     "static/media/FirstKiss.png": "/static/media/FirstKiss.459ef5374210318a043c.png",
     "static/media/OutsideNorthBeach.png": "/static/media/OutsideNorthBeach.0384a301006646b5ceae.png",
     "static/media/SaveTheDate.png": "/static/media/SaveTheDate.03ce81e8cbbfb6f65f63.png",
@@ -11,10 +11,10 @@
     "static/media/beach.png": "/static/media/beach.45cbdadcb460afa8d4f5.png",
     "index.html": "/index.html",
     "main.4898b99b.css.map": "/static/css/main.4898b99b.css.map",
-    "main.219dc17f.js.map": "/static/js/main.219dc17f.js.map"
+    "main.e77418b2.js.map": "/static/js/main.e77418b2.js.map"
   },
   "entrypoints": [
     "static/css/main.4898b99b.css",
-    "static/js/main.219dc17f.js"
+    "static/js/main.e77418b2.js"
   ]
 }
